@@ -4,5 +4,6 @@ git pull :chances in remote repository to local repository
 git init :for initializing empty git repository
 git add -A 
 git commit -m "messange"
+git status : to list all untracked files
 
 
